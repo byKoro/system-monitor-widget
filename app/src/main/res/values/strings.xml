@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Monitor de Sistema</string>
+    <string name="widget_description">Widget de monitoramento de RAM, Armazenamento, Temperatura e Processos</string>
+    <string name="widget_title">Monitor do Sistema</string>
+    <string name="refresh">Atualizar</string>
+    
+    <string name="ram_label">RAM</string>
+    <string name="storage_label">Disco</string>
+    <string name="temp_label">Temp</string>
+    <string name="cpu_label">CPU/Bateria</string>
+    
+    <string name="permission_title">Permissão de Acesso a Dados de Uso</string>
+    <string name="permission_desc">Para que o widget consiga listar os processos e apps ativos do celular, conceda a permissão nativa de acesso de uso nas configurações do Android.</string>
+    <string name="btn_grant_permission">Conceder Permissão</string>
+    <string name="btn_add_widget">Adicionar Widget à Tela Inicial</string>
+    <string name="permission_status_granted">✅ Permissão Concedida</string>
+    <string name="permission_status_denied">❌ Permissão Necessária</string>
+</resources>
